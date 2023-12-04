@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yh-dc-pj/static/css/main.5854a4f6.css",
+    "main.js": "/yh-dc-pj/static/js/main.48f01b9a.js",
+    "static/media/Ubuntu-Regular.woff2": "/yh-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
+    "static/media/UbuntuCondensed-Regular.woff2": "/yh-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
+    "index.html": "/yh-dc-pj/index.html",
+    "main.5854a4f6.css.map": "/yh-dc-pj/static/css/main.5854a4f6.css.map",
+    "main.48f01b9a.js.map": "/yh-dc-pj/static/js/main.48f01b9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5854a4f6.css",
+    "static/js/main.48f01b9a.js"
+  ]
+}
